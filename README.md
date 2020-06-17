@@ -7,3 +7,8 @@ I went through the first two lessons of Automate the boring stuff with Python an
 
 Day 2 June 14 2020
 Today, I went through and finished the flow control concepts.
+
+Day 3 June 16 2020
+I went through the concepts of writing functions, working with in-built functions as well as using the try and except to handle errors.
+
+
