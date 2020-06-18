@@ -11,4 +11,7 @@ Today, I went through and finished the flow control concepts.
 Day 3 June 16 2020
 I went through the concepts of writing functions, working with in-built functions as well as using the try and except to handle errors.
 
+Day 4 June 17 2020
+Today, I went through the concepts of Lists, Slices and List Methods.
+
 
