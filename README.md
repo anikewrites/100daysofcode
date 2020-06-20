@@ -19,6 +19,5 @@ I learnt what dictionaries in python were and how to use them. I also learnt abo
 
 Day 6 June 20 2020
 I finally figured how to run a script successfully from the terminal.
-Wrote a Guessing Game.
-
+I started working on my first project. A Guessing Game.
 
