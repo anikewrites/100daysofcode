@@ -14,4 +14,10 @@ I went through the concepts of writing functions, working with in-built function
 Day 4 June 17 2020
 Today, I went through the concepts of Lists, Slices and List Methods.
 
+Day 5 June 19 2020
+I learnt what dictionaries in python were and how to use them. I also learnt about more string methods as well as data structures, string formatting/interpolation in python. Lastly, I learnt about how to run python from the terminal but didn't figure how to do it with Mac OS.
+
+Day 6 June 20 2020
+I finally figured how to run a script successfully from the terminal.
+
 
