@@ -21,3 +21,6 @@ Day 6 June 20 2020
 I finally figured how to run a script successfully from the terminal.
 I started working on my first project. A Guessing Game.
 
+Day 7 June 29 2020
+I know, I know it's been 9 days. I wrote Security + Cert on June 28th which was yesterday and i needed to do the final prep but that is over with and I passed. I learnt about the basics of creating scripts to find regular expressions.
+
